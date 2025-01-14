@@ -8,5 +8,6 @@ Feel free to browse the "Latest" section to download current versions of zip fil
 
 Files Included:
 ---------------------------------------------------------------------------------------------------------------
-
+### UnrealPak.zip
+- Unreal packer/unpacker utility that works with Icarus.  Includes the Oodle compression plugin.
 
