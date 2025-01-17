@@ -13,5 +13,4 @@ Files Included:
 
 ### UModel.zip
 - UModel is a program for viewing and extracting resources from various games made with Unreal Engine. Sometimes the program is referenced as "umodel", the short of "unreal" and "model viewer".
-  utility that works with Icarus.  Includes the Oodle compression plugin.
 - Website: [https://www.gildor.org/en/projects/umodel](https://www.gildor.org/en/projects/umodel)
